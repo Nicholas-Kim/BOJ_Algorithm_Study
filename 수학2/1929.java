@@ -21,7 +21,7 @@ public class Main {
 		}
 		
 
-		// ¿¡¶óÅä½ºÅ×³×½ºÀÇ Ã¼
+		// ì—ë¼í† ìŠ¤í…Œë„¤ìŠ¤ì˜ 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String[] ss = br.readLine().split(" ");
 		int M = Integer.parseInt(ss[0]);
