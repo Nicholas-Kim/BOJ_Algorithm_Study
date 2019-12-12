@@ -21,7 +21,7 @@ public class Main {
 		}
 		
 
-		// �����佺�׳׽��� ü
+		// ¿¡¶óÅä½ºÅ×³×½ºÀÇ Ã¼
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int M = Integer.parseInt(br.readLine());
 		int N = Integer.parseInt(br.readLine());
@@ -48,4 +48,5 @@ public class Main {
 		}
 	}
 
+	
 }
